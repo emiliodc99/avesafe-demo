@@ -9,7 +9,7 @@ st.set_page_config(page_title="AVESAFE DEMO", layout="wide")
 st.title("🦉 AVESAFE - Evaluador de Riesgo Aviar para Recolección Nocturna")
 st.markdown("""
 Esta aplicación evalúa de forma **predictiva e interactiva** el riesgo de presencia de aves en olivares superintensivos,  
-basándose en factores **geográficos y climáticos simulados**. Ideal para presentaciones y demostraciones.  
+basándose en factores **geográficos y climáticos simulados**. Diseñada para ayudar a tomar decisiones sostenibles.  
 """)
 
 # ---------------------- FECHA ----------------------
